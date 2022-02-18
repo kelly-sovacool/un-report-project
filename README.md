@@ -9,4 +9,6 @@ write a report to the UN about GDP, life expectancy, and CO2 emissions
 
 ## authors
 
+- Brooke Wolford
 - Kelly Sovacool
+- Zena Lapp
